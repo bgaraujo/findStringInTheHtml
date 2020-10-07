@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/findStringInTheHtml/static/css/main.0c269562.chunk.css",
+    "main.js": "/findStringInTheHtml/static/js/main.dfcf53b5.chunk.js",
+    "main.js.map": "/findStringInTheHtml/static/js/main.dfcf53b5.chunk.js.map",
+    "runtime-main.js": "/findStringInTheHtml/static/js/runtime-main.a9d029b5.js",
+    "runtime-main.js.map": "/findStringInTheHtml/static/js/runtime-main.a9d029b5.js.map",
+    "static/js/2.31197ddf.chunk.js": "/findStringInTheHtml/static/js/2.31197ddf.chunk.js",
+    "static/js/2.31197ddf.chunk.js.map": "/findStringInTheHtml/static/js/2.31197ddf.chunk.js.map",
+    "index.html": "/findStringInTheHtml/index.html",
+    "precache-manifest.7de695030b9b1a5aa46ba5255a6c15ee.js": "/findStringInTheHtml/precache-manifest.7de695030b9b1a5aa46ba5255a6c15ee.js",
+    "service-worker.js": "/findStringInTheHtml/service-worker.js",
+    "static/css/main.0c269562.chunk.css.map": "/findStringInTheHtml/static/css/main.0c269562.chunk.css.map",
+    "static/js/2.31197ddf.chunk.js.LICENSE.txt": "/findStringInTheHtml/static/js/2.31197ddf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d029b5.js",
+    "static/js/2.31197ddf.chunk.js",
+    "static/css/main.0c269562.chunk.css",
+    "static/js/main.dfcf53b5.chunk.js"
+  ]
+}
